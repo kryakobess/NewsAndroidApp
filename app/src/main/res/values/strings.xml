@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="get_news">Find!</string>
+    <string name="search_bar">Browse</string>
+    <string name="title_error">Error loading title</string>
+    <string name="content_error">Error loading content</string>
+    <string name="api_key">pub_3518010550c073d59213a4b9d8c236d10cd23</string>
+</resources>

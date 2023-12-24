@@ -22,7 +22,7 @@ class NewsAdapter(
     var news: List<NewsDto.NewsInfo>
 ) : RecyclerView.Adapter<NewsAdapter.NewsHolder>() {
 
-    private val backgroundColors : List<String> = listOf("#EB9263","#B4EB63","#639BEB","#EB63A4")
+    private val backgroundColors : List<String> = listOf("#7eb0f7","#abcaf5")
 
     override fun getItemCount(): Int = news.count()
 
